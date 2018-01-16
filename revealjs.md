@@ -120,7 +120,7 @@
 >>>
 
 #### 顧客とエンジニアの架け橋が出来る人
-## is
+ <span style="font-size:xx-large">is</span><span 
 #### 営業 を増やそう
 
 ---
@@ -312,8 +312,8 @@
 
 ---
 
-### インフラエンジニアも営業も絶賛採用募集中です。
-### 興味ある人は[@kenta_hi](https://twitter.com/kenta_hi) でお気軽に声かけてね
+### インフラエンジニアも営業も絶賛採用募集中
+興味ある人は[@kenta_hi](https://twitter.com/kenta_hi) でお気軽に声かけてね
 
 ---
 
