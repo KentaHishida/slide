@@ -1,4 +1,5 @@
-### エンジニアドリブンな会社の営業組織の作り方
+### エンジニアドリブンな会社の
+### 営業組織の作り方
 株式会社ハートビーツ
 
 取締役　菱田 健太
@@ -12,7 +13,7 @@
 - HBエンジニアのここが凄い
 - HBの営業に必要なこと3つの事
 - やってみた
-- これからの話し
+- これからの話
 
 ---
 
@@ -312,7 +313,8 @@
 
 ---
 
-### インフラエンジニアも営業も[絶賛採用募集中](https://www.wantedly.com/companies/heartbeats/projects)
+### インフラエンジニアも営業も
+### [絶賛採用募集中](https://www.wantedly.com/companies/heartbeats/projects)
 <span style="font-size:xx-large">興味ある人は[@kenta_hi](https://twitter.com/kenta_hi) でお気軽に声かけてね</span>
 
 ---
