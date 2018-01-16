@@ -120,7 +120,7 @@
 >>>
 
 #### 顧客とエンジニアの架け橋が出来る人
- <span style="font-size:xx-large">is</span><span 
+ <span style="font-size:xx-large">is</span> 
 #### 営業 を増やそう
 
 ---
