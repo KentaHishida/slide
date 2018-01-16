@@ -237,7 +237,7 @@
 
 ### こんなひと
 <div style="text-align:center;">
-  <img src="lib/img/miyazato.png"/>
+  <img src="lib/img/miyazato_2.png"/>
 </div>
 
 ---
