@@ -312,8 +312,8 @@
 
 ---
 
-### インフラエンジニアも営業も絶賛採用募集中
-興味ある人は[@kenta_hi](https://twitter.com/kenta_hi) でお気軽に声かけてね
+### インフラエンジニアも営業も[絶賛採用募集中](https://www.wantedly.com/companies/heartbeats/projects)
+<span style="font-size:xx-large">興味ある人は[@kenta_hi](https://twitter.com/kenta_hi) でお気軽に声かけてね</span>
 
 ---
 
